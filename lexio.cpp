@@ -1,5 +1,5 @@
-Q. Take as input N, a number. Write a recursive function which prints counting from 0 to N in lexicographical order.
-In lexicographical (dictionary) order 10, 100 and 109 will be printed before 11.
+// Q. Take as input N, a number. Write a recursive function which prints counting from 0 to N in lexicographical order.
+// In lexicographical (dictionary) order 10, 100 and 109 will be printed before 11.
 
 #include<iostream>
 using namespace std;
