@@ -1,3 +1,5 @@
+// Transpose of a matrix
+
 #include<iostream>
 using namespace std;
 int main() {
